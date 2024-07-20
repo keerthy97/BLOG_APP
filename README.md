@@ -21,8 +21,8 @@ This project is a simple blog application built with Django and Django REST Fram
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/django-blog-api.git
-    cd django-blog-api
+    https://github.com/keerthy97/BLOG_APP.git
+    cd BLOG_APP
     ```
 
 2. **Create a Virtual Environment**:
